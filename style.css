@@ -1,0 +1,31 @@
+html, body {
+    font-family: 'Courier New', Courier, monospace !important;
+    background: black !important;
+    color: red !important;
+}
+
+#heading {
+    margin-top: 80px;
+    font-size: 72px;
+}
+
+#rosinha {
+    width: 20%;
+    height: auto;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+#luizinha {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 14px;
+    float: right;
+}
